@@ -1,7 +1,7 @@
 # Genevieve Naa Teteley Quarshie - Data Analyst Portfolio
 ## About Me
 
-👋 Hi, I'm Genevieve!
+Hi, I'm Genevieve!
 I'm a Data Analyst with a strong foundation in Business Intelligence and a passion for transforming raw data into meaningful insights that drive decision-making.
 
 With hands-on experience in Power BI, SQL, Advanced Excel, and Python, I’ve developed dashboards, automated reports, and conducted data analysis that directly supports business goals. I’m particularly drawn to using data to uncover trends, optimize performance, and solve real-world problems.
@@ -17,11 +17,11 @@ In my free time, I enjoy diving into new datasets, building dashboards, and lear
 
 This GitHub repository is a space to:
 
-- 🌟 Showcase my portfolio of data projects
+- Showcase my portfolio of data projects
 
-- 📊 Share insights from my journey in analytics
+- Share insights from my journey in analytics
 
-- 🧠 Track my progress as I grow toward my goal of becoming a Business Intelligence Analyst
+- Track my progress as I grow toward my goal of becoming a Business Intelligence Analyst
 
 
 🔗 Let's Connect!
