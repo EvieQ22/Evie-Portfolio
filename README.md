@@ -66,7 +66,7 @@ In this section, I will list the analytics projects I have worked on, briefly de
 
 ### Water Quality Analysis Report
 
-**View Power BI Report:** [Environmental Data Analysis Dashboard](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Water_Quality_Analysis.pbix)
+**View Power BI Report:** [Water Quality Analysis Report](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Water_Quality_Analysis.pbix)
 
 **Goal:** To analyze the quality of water samples collected across several locations.
 
