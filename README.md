@@ -33,10 +33,10 @@ This GitHub repository is a space to:
 
 - [About](#about-me)
 - [Portfolio Projects](#portfolio-projects)
-    - [Power BI](#power-bi)
+    - Power BI
        - [Financial Analysis Dashboard](#financial-analysis-dashboard)
-       - [Environmental Data Analysis Dashboard](#environmental-data-analysis-dashboard)
-    - [Excel](#excel)
+       - [Water Quality Analysis Report](#water-quality-analysis-report)
+    - Excel
        - [Superstore Sales Analysis](#superstore-sales-analysis)
 - [Education](#education)
 - [Skills](#skills)
@@ -48,7 +48,7 @@ This GitHub repository is a space to:
 
 In this section, I will list the analytics projects I have worked on, briefly describing the technology used in solving business problems identified.
 
-### Power BI
+
 ### Financial Analysis Dashboard
 
 **View Power BI Report:** [Financial Analysis Dashboard](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Financial_Performance_Analysis.pbix)
@@ -64,9 +64,9 @@ In this section, I will list the analytics projects I have worked on, briefly de
 **Results:**
 
 
-### Environmental Data Analysis Dashboard
+### Water Quality Analysis Report
 
-**View Power BI Report:** [Environmental Data Analysis Dashboard](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Financial_Performance_Analysis.pbix)
+**View Power BI Report:** [Environmental Data Analysis Dashboard](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Water_Quality_Analysis.pbix)
 
 **Goal:** To analyze the quality of water samples collected across several locations.
 
@@ -78,12 +78,12 @@ In this section, I will list the analytics projects I have worked on, briefly de
 
 **Results:**
 
-### Excel
+
 ### Superstore Sales Analysis
 
 **View Excel Report:** [Superstore Sales Report](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Superstore_Sales_Report.xlsx)
 
-**Goal:** To analyze the financial performance of 5 stock companies.
+**Goal:** To analyze the performance of an e-commerce retail company.
 
 **Description:** 
 
