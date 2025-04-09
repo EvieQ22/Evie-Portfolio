@@ -128,6 +128,7 @@ In this section, I will list the analytics projects I have worked on, briefly de
 
 ## Education
 Generation Data Analysis Program , Jan - Apr 2025
+
 Kwame Nkrumah University of Science and Technology: BSc. Business Administration(Business Information Technology), Sep 2019 - Nov 2023
 
 ## Skills
@@ -154,6 +155,7 @@ Kwame Nkrumah University of Science and Technology: BSc. Business Administration
 
 ## Certifications
 Microsoft Certified: Power BI Data Analyst Associate, Sep 2024 - Present
+
 [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GenevieveNaaTeteleyQuarshie-7811/858DBFC696B86AE7?sharingId=5C1D760F11841740)
 
 ## Let's Connect!
