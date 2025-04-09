@@ -50,7 +50,7 @@ In this section, I will list the analytics projects I have worked on, briefly de
 
 ### Financial Analysis Dashboard
 
-**View Power BI Report:** [Financial Analysis Dashboard](https://github.com/EvieQ22/Evie-Portfolio/blob/main/)
+**View Power BI Report:** [Financial Analysis Dashboard](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Financial_Performance_Analysis.pbix)
 
 **Goal:** To analyze the financial performance of 5 stock companies.
 
