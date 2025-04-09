@@ -48,6 +48,7 @@ This GitHub repository is a space to:
 
 In this section, I will list the analytics projects I have worked on, briefly describing the technology used in solving business problems identified.
 
+### Power BI
 ### Financial Analysis Dashboard
 
 **View Power BI Report:** [Financial Analysis Dashboard](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Financial_Performance_Analysis.pbix)
@@ -59,5 +60,35 @@ In this section, I will list the analytics projects I have worked on, briefly de
 **Skills:** 
 
 **Technology:** Power Query, Power BI, DAX
+
+**Results:**
+
+
+### Environmental Data Analysis Dashboard
+
+**View Power BI Report:** [Environmental Data Analysis Dashboard](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Financial_Performance_Analysis.pbix)
+
+**Goal:** To analyze the quality of water samples collected across several locations.
+
+**Description:** 
+
+**Skills:** 
+
+**Technology:** Power Query, Power BI, DAX
+
+**Results:**
+
+### Excel
+### Superstore Sales Analysis
+
+**View Excel Report:** [Superstore Sales Report](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Financial_Performance_Analysis.pbix)
+
+**Goal:** To analyze the financial performance of 5 stock companies.
+
+**Description:** 
+
+**Skills:** 
+
+**Technology:** Power Query, Pivot Tables, Advanced MS Excel
 
 **Results:**
