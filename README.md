@@ -24,10 +24,6 @@ This GitHub repository is a space to:
 - Track my progress as I grow toward my goal of becoming a Business Intelligence Analyst
 
 
-🔗 Let's Connect!
-- LinkedIn: [Genevieve Naa Teteley Quarshie](https://www.linkedin.com/in/genevieve-naa-teteley-quarshie)
-
-- Email: genevievequarshie22@gmail.com
 
 ## Table of Contents
 
@@ -42,6 +38,7 @@ This GitHub repository is a space to:
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [Let's Connect!](#lets-connect)
+
 
 
 ## Portfolio Projects
@@ -100,12 +97,66 @@ In this section, I will list the analytics projects I have worked on, briefly de
 
 **View Excel Report:** [Superstore Sales Report](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Superstore_Sales_Report.xlsx)
 
-**Goal:** To analyze the performance of an e-commerce retail company.
+**Goal:** To analyze the sales performance of a retail superstore and uncover key business insights across time, regions, products, and customer segments using Excel.
 
-**Description:** 
+**Description:** This dashboard project was designed to provide a multi-dimensional view of the superstore's sales activity. It highlights top-performing products, tracks sales trends, and breaks down regional performance and customer behavior. Organized into three pages, the dashboard supports business decision-making with detailed KPIs, trend analyses, and customer segmentation insights.
 
 **Skills:** 
+- Dashboard design in Excel
 
-**Technology:** Power Query, Pivot Tables, Advanced MS Excel
+- Sales performance analysis
+
+- Customer segmentation
+
+- KPI calculation and trend analysis
+
+- Data storytelling
+
+**Technology:** Advanced Excel (Pivot Tables, Power Query, Slicers, Charts, Dashboard Layout)
 
 **Results:**
+- Provided a general overview of sales with clear KPIs like Total Sales, Orders, AOV, and YoY Growth
+
+- Identified top 5 best-selling products and most profitable states
+
+- Mapped customer distribution and segmented them by spending behavior
+
+- Differentiated repeat customers from one-time buyers to assist in marketing strategies
+
+- Delivered a user-friendly dashboard with actionable insights for retail growth
+  
+
+## Education
+Generation Data Analysis Program , Jan - Apr 2025
+Kwame Nkrumah University of Science and Technology: BSc. Business Administration(Business Information Technology), Sep 2019 - Nov 2023
+
+## Skills
+**TECH STACK:** 
+- Languages: Python, SQL 
+- Libraries: Pandas, NumPy, ipykernel, Seaborn, Matplotlib 
+- Data visualization: Advanced MS. Excel, Power BI
+
+**TECHNICAL SKILLS:**
+- Exploratory Data Analysis
+- Data Cleaning
+- Data Wrangling
+- Statistical methods
+
+  
+**SOFT SKILLS:**
+- Effective Communication 
+- Collaboration & Teamwork 
+- Attention to Detail 
+- Problem-Solving 
+- Time Management 
+- Adaptability 
+- Continuous Learning 
+
+## Certifications
+Microsoft Certified: Power BI Data Analyst Associate, Sep 2024 - Present
+[View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GenevieveNaaTeteleyQuarshie-7811/858DBFC696B86AE7?sharingId=5C1D760F11841740)
+
+## Let's Connect!
+- LinkedIn: [Genevieve Naa Teteley Quarshie](https://www.linkedin.com/in/genevieve-naa-teteley-quarshie)
+
+- Email: genevievequarshie22@gmail.com
