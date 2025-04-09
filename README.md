@@ -81,7 +81,7 @@ In this section, I will list the analytics projects I have worked on, briefly de
 ### Excel
 ### Superstore Sales Analysis
 
-**View Excel Report:** [Superstore Sales Report](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Financial_Performance_Analysis.pbix)
+**View Excel Report:** [Superstore Sales Report](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Superstore_Sales_Report.xlsx)
 
 **Goal:** To analyze the financial performance of 5 stock companies.
 
