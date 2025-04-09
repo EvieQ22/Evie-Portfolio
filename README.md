@@ -10,7 +10,7 @@ I hold a PL-300: Microsoft Certified Power BI Data Analyst Associate certificati
 
 Alongside my technical skills, I bring a detail-oriented and solution-driven mindset. Whether it’s writing Business Requirements Documents (BRDs), managing tasks with DevOps, or handling customer tickets via SysAid, I value collaboration, continuous learning, and clear communication.
 
-[**View My CV (PDF)**](https://github.com/EvieQ22/Evie-Portfolio/raw/main/GENEVIEVE NAA TETELEY QUARSHIE_CV_Updated_New - Genevieve Naa Teteley Quarshie.docx.pdf)
+[**View My CV (PDF)**](https://github.com/EvieQ22/Evie-Portfolio/raw/main/Genevieve_N.T._Quarshie_CV_Updated_New.pdf)
 
 
 This GitHub repository is a space to:
