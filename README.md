@@ -21,7 +21,7 @@ This GitHub repository is a space to:
 In my free time, I enjoy diving into new datasets, building dashboards, and learning new tools that make data storytelling even more powerful.
 
 🔗 Let's Connect!
-- LinkedIn: [Genevieve Naa Teteley Quarshie](www.linkedin.com/in/genevieve-naa-teteley-quarshie)
+- LinkedIn: [Genevieve Naa Teteley Quarshie](https://www.linkedin.com/in/genevieve-naa-teteley-quarshie)
 
 - Email: genevievequarshie22@gmail.com
 
