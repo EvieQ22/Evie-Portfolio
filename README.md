@@ -68,15 +68,32 @@ In this section, I will list the analytics projects I have worked on, briefly de
 
 **View Power BI Report:** [Water Quality Analysis Report](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Water_Quality_Analysis.pbix)
 
-**Goal:** To analyze the quality of water samples collected across several locations.
+**Goal:** To analyze the quality of water samples collected across several monitoring stations to identify pollution trends and assess environmental health.
 
-**Description:** 
+**Description:** This project involved exploring a rich environmental dataset containing key water quality indicators such as pH, turbidity, dissolved oxygen, nitrogen, and phosphorus levels. The aim was to uncover patterns in water pollution events, assess the impact of surrounding land use types (urban, agricultural, forest), and understand how various environmental factors affect aquatic life. The Power BI report delivers an interactive, insight-driven dashboard that highlights areas with recurring pollution events and declining fish populations.
 
 **Skills:** 
+- Environmental data analysis
 
-**Technology:** Power Query, Power BI, DAX
+- Data visualization & storytelling
+
+- Analytical thinking
+
+- Interactive dashboard design
+
+**Technology:** 
+- Power Query
+- Power BI
+- DAX
 
 **Results:**
+- Identified pollution hotspots and associated land use types
+
+- Visualized correlations between rainfall and pollution events
+
+- Highlighted areas with low dissolved oxygen and fish population decline
+
+- Built an intuitive dashboard that supports informed environmental decisions
 
 
 ### Superstore Sales Analysis
