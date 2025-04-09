@@ -10,6 +10,8 @@ I hold a PL-300: Microsoft Certified Power BI Data Analyst Associate certificati
 
 Alongside my technical skills, I bring a detail-oriented and solution-driven mindset. Whether it’s writing Business Requirements Documents (BRDs), managing tasks with DevOps, or handling customer tickets via SysAid, I value collaboration, continuous learning, and clear communication.
 
+In my free time, I enjoy diving into new datasets, building dashboards, and learning new tools that make data storytelling even more powerful.
+
 [**View My CV (PDF)**](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Genevieve_N.T._Quarshie_CV_Updated_New.pdf)
 
 
@@ -21,10 +23,23 @@ This GitHub repository is a space to:
 
 - 🧠 Track my progress as I grow toward my goal of becoming a Business Intelligence Analyst
 
-In my free time, I enjoy diving into new datasets, building dashboards, and learning new tools that make data storytelling even more powerful.
 
 🔗 Let's Connect!
 - LinkedIn: [Genevieve Naa Teteley Quarshie](https://www.linkedin.com/in/genevieve-naa-teteley-quarshie)
 
 - Email: genevievequarshie22@gmail.com
+
+## Table of Contents
+
+- [About](#about-me)
+- [Portfolio Projects](#portfolio-projects)
+    - [Power BI](#power-bi)
+       - [Financial Analysis Dashboard](#financial-analysis-dashboard)
+       - [Environmental Data Analysis Dashboard](#environmental-data-analysis-dashboard)
+    - [Excel](#excel)
+       - [Superstore Sales Analysis](#superstore-sales-analysis)
+- [Education](#education)
+- [Skills](#skills)
+- [Certifications](#certifications)
+- [Let's Connect!](#lets-connect)
 
