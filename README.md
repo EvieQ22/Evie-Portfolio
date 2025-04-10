@@ -52,7 +52,7 @@ In this section, I will list the analytics projects I have worked on, briefly de
 
 **Goal:** To build an interactive Power BI dashboard that analyzes the financial health and structure of selected companies using balance sheet data.
 
-**Description:** This project involved creating a three-page Power BI report that explored the financial performance, asset-liability structure, and liquidity-leverage ratios of approximately 20 selected stocks. Drawing on balance sheet data, the report enables users to interactively analyze total assets, liabilities, equity, and key financial ratios over time. Each page of the dashboard offers visual insights into core financial themes: a financial overview, asset and liability composition, and liquidity and leverage analysi
+**Description:** This project involved creating a three-page Power BI report that explored the financial performance, asset-liability structure, and liquidity-leverage ratios of approximately 20 selected stocks. Drawing on balance sheet data, the report enables users to interactively analyze total assets, liabilities, equity, and key financial ratios over time. Each page of the dashboard offers visual insights into key focus areas: a Financial Overview, Asset and Liability Composition, and Liquidity and Leverage Analysis.
 
 **Skills:** 
 - Data modeling
@@ -69,13 +69,13 @@ In this section, I will list the analytics projects I have worked on, briefly de
 - DAX
 
 **Results:**
-- Designed over 12 insightful visuals, including KPI cards, treemaps, waterfall, stacked/clustered bar charts, donut charts, and gauge visuals.
+- Designed over 12 insightful visuals, including KPI cards, treemaps, waterfall, stacked/clustered bar charts, donut charts, and gauge visuals
 
-- Created custom DAX measures for financial ratios like current ratio, quick ratio, debt-to-equity, and debt-to-assets.
+- Created custom DAX measures for financial ratios like current ratio, quick ratio, debt-to-equity, and debt-to-assets
 
-- Enabled dynamic filtering by year and company stock, enhancing interactivity and user exploration.
+- Enabled dynamic filtering by year and company stock, enhancing interactivity and user exploration
 
-- Improved understanding of financial reporting and performance benchmarking, with practical relevance for business stakeholders.
+- Improved understanding of financial reporting and performance benchmarking, with practical relevance for business stakeholders
 
 
 ### Water Quality Analysis Report
