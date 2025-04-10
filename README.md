@@ -159,6 +159,8 @@ Kwame Nkrumah University of Science and Technology: BSc. Business Administration
 - Data Cleaning
 - Data Wrangling
 - Statistical methods
+- Data Visualization and Storytelling
+- Interactive Dashboard Design
 
   
 **SOFT SKILLS:**
