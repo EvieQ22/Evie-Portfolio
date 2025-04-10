@@ -12,7 +12,7 @@ Alongside my technical skills, I bring a detail-oriented and solution-driven min
 
 In my free time, I enjoy diving into new datasets, building dashboards, and learning new tools that make data storytelling even more powerful.
 
-[**View My CV (PDF)**](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Genevieve_N.T._Quarshie_CV_Updated_New.pdf)
+[**View My CV (PDF)**](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Genevieve_Naa_Teteley_Quarshie_CV_Updated_New.pdf)
 
 
 This GitHub repository is a space to:
