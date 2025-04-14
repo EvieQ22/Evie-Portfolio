@@ -86,6 +86,15 @@ In this section, I will list the analytics projects I have worked on, briefly de
 
 **Description:** This project involved exploring a rich environmental dataset containing key water quality indicators such as pH, turbidity, dissolved oxygen, nitrogen, and phosphorus levels. The aim was to uncover patterns in water pollution events, assess the impact of surrounding land use types (urban, agricultural, forest), and understand how various environmental factors affect aquatic life. The Power BI report delivers an interactive, insight-driven dashboard that highlights areas with recurring pollution events and declining fish populations.
 
+
+### Tourism Analysis Report
+
+**View Power BI Report:** [Tourism Analysis Report](https://github.com/EvieQ22/Evie-Portfolio/blob/main/)
+
+**Goal:** To analyze the quality of water samples collected across several monitoring stations to identify pollution trends and assess environmental health.
+
+**Description:** This project involved exploring a rich environmental dataset containing key water quality indicators such as pH, turbidity, dissolved oxygen, nitrogen, and phosphorus levels. The aim was to uncover patterns in water pollution events, assess the impact of surrounding land use types (urban, agricultural, forest), and understand how various environmental factors affect aquatic life. The Power BI report delivers an interactive, insight-driven dashboard that highlights areas with recurring pollution events and declining fish populations.
+
 **Skills:** 
 - Environmental data analysis
 
