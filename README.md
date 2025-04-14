@@ -32,6 +32,7 @@ This GitHub repository is a space to:
     - Power BI
        - [Financial Analysis Dashboard](#financial-analysis-dashboard)
        - [Water Quality Analysis Report](#water-quality-analysis-report)
+       - [Tourism Analysis Report](#tourism-analysis-report)
     - Excel
        - [Superstore Sales Analysis](#superstore-sales-analysis)
 - [Education](#education)
@@ -89,34 +90,35 @@ In this section, I will list the analytics projects I have worked on, briefly de
 
 ### Tourism Analysis Report
 
-**View Power BI Report:** [Tourism Analysis Report](https://github.com/EvieQ22/Evie-Portfolio/blob/main/)
+**View Power BI Report:** [Tourism Analysis Report](https://github.com/EvieQ22/Evie-Portfolio/blob/main/Tourism_Analysis_Report.pbix)
 
-**Goal:** To analyze the quality of water samples collected across several monitoring stations to identify pollution trends and assess environmental health.
+**Goal:** To understand how tourism is performing across different regions and seasons, identify what’s working, what’s not, and suggest simple, practical ways to improve visitor experiences and boost revenue.
 
-**Description:** This project involved exploring a rich environmental dataset containing key water quality indicators such as pH, turbidity, dissolved oxygen, nitrogen, and phosphorus levels. The aim was to uncover patterns in water pollution events, assess the impact of surrounding land use types (urban, agricultural, forest), and understand how various environmental factors affect aquatic life. The Power BI report delivers an interactive, insight-driven dashboard that highlights areas with recurring pollution events and declining fish populations.
+**Description:** This report explores key tourism metrics including revenue, number of visits, and customer satisfaction—across different regions and months. It is designed to help tourism planners and stakeholders quickly spot trends, identify gaps, and make informed decisions. Alongside the insights, it also provides practical recommendations, such as investing in infrastructure in underperforming regions, promoting off-season travel, and enhancing service quality in areas with low satisfaction.
 
 **Skills:** 
-- Environmental data analysis
+- Breaking down insights from data
 
-- Data visualization & storytelling
+- Telling stories through visuals
 
-- Analytical thinking
+- Recommending improvements based on real trends
 
-- Interactive dashboard design
+- Designing easy-to-use dashboards
 
 **Technology:** 
 - Power Query
 - Power BI
-- DAX
 
 **Results:**
-- Identified pollution hotspots and associated land use types
+- Spotted that the South leads in revenue, while the East needs more attention
 
-- Visualized correlations between rainfall and pollution events
+- Showed that tourist visits and revenue peak between May and July, then drop off
 
-- Highlighted areas with low dissolved oxygen and fish population decline
+- Highlighted that the Central region has the lowest satisfaction scores
 
-- Built an intuitive dashboard that supports informed environmental decisions
+- Suggested ways to improve—like investing in the East, creating off-season packages, and fixing service gaps in the Central region
+
+- Built an interactive dashboard that makes it easy to explore the data and take action
 
 
 ### Superstore Sales Analysis
